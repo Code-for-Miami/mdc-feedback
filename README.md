@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/Code-for-Miami/mdc-feedback/badges/gpa.svg)](https://codeclimate.com/github/Code-for-Miami/mdc-feedback)
+
 # Miami-Dade County Feedback Engine
 
 ## What is this?
